@@ -1,0 +1,25 @@
+{
+  "name": "My new meal plan template",
+  "items": [
+    {
+      "day": 1,
+      "slot": 1,
+      "position": 0,
+      "type": "INGREDIENTS",
+      "value": {
+        "ingredients": [
+          {
+            "name": "1 banana"
+          },
+          {
+            "name": "coffee",
+            "unit": "cup",
+            "amount": "1",
+            "image": "https://spoonacular.com/cdn/ingredients_100x100/brewed-coffee.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "publishAsPublic": false
+}
